@@ -9,7 +9,7 @@ public class Arithemeticoperators {
 		int multi = num1*num2;
 		int divide = num1/num2;
 		int modulus = num1%num2;
-		System.out.println("Add="+add+ " \nsub="+ sub+ " \nMulti="+ multi+ " \nDivide=" +divide);
+		System.out.println("Add="+add+ " \nsub="+ sub+ " \nMulti="+ multi+ " \nDivide=" +diivide);
 	}
 
 }
